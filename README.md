@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 Full-stack developer building real-world web apps using React, Node.js, and ASP.NET Core<br>📊 Skilled in lead generation and data extraction (automation, scraping, and data pipelines)<br>🚀 Focused on creating AI-powered tools and scalable digital products<br>🧠 Continuously learning system design, backend architecture, and performance optimization<br>⚡ Driven to build impactful solutions that attract users, opportunities, and revenue
+🛠 Full-stack developer building real-world web apps using React, Node.js, and Next.js<br>📊 Skilled in lead generation and data extraction (automation, scraping, and data pipelines)<br>🚀 Focused on creating AI-powered tools and scalable digital products<br>🧠 Continuously learning system design, backend architecture, and performance optimization<br>⚡ Driven to build impactful solutions that attract users, opportunities, and revenue
 
 
 ## 🌐 Socials:
